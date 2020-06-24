@@ -1,0 +1,87 @@
+[
+  {
+    "date" : "2020-10-08",
+    "events" : [
+      {
+        "start" : "11:00", "finish" : "11:30",
+        "name"  : "Érkezés, regisztráció, szállás elfoglalása",
+        "place" : "Famulus Hotel"
+      }, 
+      {
+        "start" : "11:30", "finish" : "13:30",
+        "name"  : "Ebéd",
+        "place" : "Széchenyi Étterem"
+      }, 
+      {
+        "start" : "13:35", "finish" : "15:40",
+        "name"  : "Szekcióelőadások 1.",
+        "place" : "SZE, Menedzsment kampusz",
+        "sections" : [
+          {
+            "name" : "Műszaki tudományok (informatika és fizika)",
+            "presentations" : ["Hegyhati_Mate", "Hegyhati_Mate", "Hegyhati_Mate", "Hegyhati_Mate", "Hegyhati_Mate"]
+          },
+          {
+            "name" : "Pszichológiatudomány és neveléstudomány",
+            "presentations": ["Mayer_Krisztina", "Mayer_Krisztina", "Bugyik_Edina", "Bugyik_Edina", "Mayer_Krisztina"]
+          }
+        ]
+      },
+      {
+        "start" : "15:40", "finish" : "16:00",
+        "name"  : "Kávészünet",
+        "place" : "SZE, Menedzsment kampusz",
+      },
+      {
+        "start" : "16:00", "finish" : "17:00",
+        "name"  : "Plenáris előadás",
+        "place" : "SZE, Új Tudástér 114.",
+        "presentation" : "Csitei_Bela"
+      }, 
+      {
+        "start" : "17:00", "finish" : "18:15",
+        "name"  : "Szekcióelőadások 2.",
+        "place" : "SZE, Menedzsment kampusz",
+        "sections" : [
+          {
+            "name" : "Hölgyek előadásai",
+            "presentations" : ["Mayer_Krisztina", "Bugyik_Edina", "Mayer_Krisztina"]
+          },
+          {
+            "name" : "Urak előadásai",
+            "presentations": ["Csitei_Bela", "Hegyhati_Mate", "Csitei_Bela"]
+          },
+          {
+            "name" : "Vegyes szekció",
+            "presentations": ["Mayer_Krisztina", "Csitei_Bela", "Bugyik_Edina"]
+          }
+        ]
+      },
+      {
+        "start" : "19:00", "finish" : "20:30",
+        "name"  : "Vacsora",
+        "place" : "Famulus Étterem"
+      }      
+    ] 
+  },
+  {
+    "date" : "2020-10-09",
+    "events" : [
+      {
+        "start" : "08:00", "finish" : "09:30",
+        "name"  : "Reggeli",
+        "place" : "Famulus Étterem"
+      }, 
+      {
+        "start" : "10:00", "finish" : "16:00",
+        "name"  : "Egész napos túrázás",
+        "place" : "Bakony"
+      } ,
+      {
+        "start" : "19:00", "finish" : "20:30",
+        "name"  : "Vacsora",
+        "place" : "Famulus Étterem"
+      } 
+    ]
+  }
+]
