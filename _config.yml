@@ -1,0 +1,9 @@
+title: PSAK 2020
+baseurl: "/psak_2020" 
+url: "http://hegyhati.github.io" 
+
+
+# Build settings
+markdown: kramdown
+
+
