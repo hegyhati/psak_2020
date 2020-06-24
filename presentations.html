@@ -1,5 +1,16 @@
 ---
 title: Előadások listája
-layout: default
 ---
 
+<div class="list-group">
+  {% for presentation in site.presentations %}
+  <a href="{{site.baseurl}}{{presentation.url}}" class="list-group-item list-group-item-action">
+    <h5 class="mb-1">{{presentation.title}}</h5>
+    <p class="mb-1">{{presentation.presenter}}</p>
+    <div class="d-md-inline d-sm-none d-none">
+      <hr class="my-4">
+      {{presentation.content | slice: 0, 300 | append: "... " }}
+    </div>
+  </a>
+  {% endfor %}
+</div>
