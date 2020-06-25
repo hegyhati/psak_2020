@@ -1,7 +1,6 @@
 ---
 presenter: Csitei Béla
 title: Az automatizált járművek nóvuma egy jogász szemszögéből
-id: Csitei_Bela
 ---
 
 Előadásomban a laikusok számára is megragadható képet kívánok nyújtani az önvezető járművek és a tételes jogi szabályozás lehetséges kapcsolódási pontjairól, különösképpen arról, hogy az emberi tényező háttérbe szorulása milyen változásokat indukálhat hazánk polgári jogi felelősségi rendszerében.

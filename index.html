@@ -6,7 +6,15 @@ title: Konferencia program
 <h5>{{day.date | date: "%A, %Y.%m.%d."}}</h5>
   <ul style="list-style-type: none;">
   {% for event in day.events %}
-    <li>{{event.start}}-{{event.finish}}: <b>{{event.name}}</b> ({{event.place}})</li>
+    <li>
+      {{event.start}}-{{event.finish}}: 
+      {% if event.sections or event.presentation%}
+        <a href="sections.html#{{event.name}}"><b>{{event.name}}</b></a>
+      {% else %}
+        <b>{{event.name}}</b>
+      {% endif %}
+      ({{event.place}})
+    </li>
   {% endfor %}
   </ul>
 {% endfor %}

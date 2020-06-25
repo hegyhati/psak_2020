@@ -5,10 +5,29 @@ layout: default
 <div class="jumbotron">
   <h4>{{page.title}}</h4>
   <p class="lead">{{page.presenter}}</p>
-  <hr class="my-4">
-  <p>LINK TO SECTION</p>
 </div>
 
 <div style="text-align: justify;text-justify: inter-word;">
 {{content}}
 </div>
+
+<hr />
+
+Szekció: 
+{% assign id = page.id | remove: "/presentations/" %}
+{% for day in site.data.program %}
+  {% for event in day.events %}
+    {% if event.presentation == id %}
+      <a href="../sections.html#{{event.name}}"><b>{{event.name}}</b></a>
+    {% endif %}
+    {% if event.sections %}
+      {% for section in event.sections %}
+        {% for presentation in section.presentations %}
+          {% if presentation == id %}
+            <a href="../sections.html#{{event.name}}"><b>{{event.name}}</b> / {{section.name}}</a>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}

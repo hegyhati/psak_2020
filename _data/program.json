@@ -78,9 +78,49 @@
         "place" : "Bakony"
       } ,
       {
+        "start" : "17:00", "finish" : "18:00",
+        "name"  : "Plenáris előadás 2",
+        "place" : "Famulus Hotel, konferencia központ",
+        "presentation" : "Mayer_Krisztina"
+      }, 
+      {
         "start" : "19:00", "finish" : "20:30",
         "name"  : "Vacsora",
         "place" : "Famulus Étterem"
+      } 
+    ]
+  },
+  {
+    "date" : "2020-10-10",
+    "events" : [
+      {
+        "start" : "08:00", "finish" : "13:30",
+        "name"  : "Budapest SPAR Maraton",
+        "place" : "Budapest, rakpart"
+      }, 
+      {
+        "start" : "14:00", "finish" : "16:00",
+        "name"  : "Elégetett kalóriák visszatöltése",
+        "place" : "VitalCafé, Győr"
+      } ,
+      {
+        "start" : "16:00", "finish" : "17:40",
+        "name"  : "Szekcióelőadások 3.",
+        "place" : "SZE, Menedzsment kampusz",
+        "sections" : [
+          {
+            "name" : "Hölgyek előadásai",
+            "presentations" : ["Mayer_Krisztina", "Bugyik_Edina", "Mayer_Krisztina"]
+          },
+          {
+            "name" : "Urak előadásai",
+            "presentations": ["Csitei_Bela", "Hegyhati_Mate", "Csitei_Bela"]
+          },
+          {
+            "name" : "Vegyes szekció",
+            "presentations": ["Mayer_Krisztina", "Csitei_Bela", "Bugyik_Edina"]
+          }
+        ]
       } 
     ]
   }

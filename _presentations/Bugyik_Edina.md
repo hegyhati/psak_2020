@@ -1,7 +1,6 @@
 ---
 presenter: Bugyik Edina
 title: '"Ami elromolhat, az el is romlik"'
-id: Bugyik_Edina
 ---
 
 Amikor egy új kutatási témát kezdünk, egy sor kérdésre kell választ adnunk az első éles kísérletek megkezdése előtt. Hogyan valósítható meg? Milyen általunk ismert/használt és milyen új módszereket kell alkalmaznunk? Még az általunk folyamatosan használt módszereken is olykor finomítanunk kell, az újaknál pedig több helyről kell tájékozódnunk a pontos és megbízható eredmények érdekében. Aztán, amikor már kész protokoll alapján dolgozhatunk, hirtelen összeomlik minden, pedig „mi mindent ugyanúgy csináltunk”.

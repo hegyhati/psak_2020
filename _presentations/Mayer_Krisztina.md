@@ -1,7 +1,6 @@
 ---
 presenter: Mayer Krisztina
 title: A futás, mint a stresszel való megküzdés eszköze a koronavírus idején
-id: Mayer_Krisztina
 ---
 
 Kutatásomban a COVID-19 járvány lassítása miatt hozott intézkedések hatását vizsgáltam a hosszútávfutók sportolási szokásaira és jól lét érzésére mennyiség is és minőségi módszerekkel. Összesen 323 futó (átlagos életkor: 41.72 ±8.78, 41.8% férfi, 58,2% nő) adatait elemeztem. A futók 46,9% -a megváltoztatta futási szokásait a világjárvány alatt, 20,4% - a pedig részben változtatott. A legkedvezőtlenebb pszichológia jóllétet annál a csoportnál tapasztaltam, akik változtattak a futási szokásaikon. Csak 9 ember jelezte, hogy egyáltalán nem fut, és 10 személy futópadon edzett, a kinti futás helyett. Összességében a vizsgált személyek szignifikánsan többet futottak a karantén első hónapjában, mint az azt megelőző hónapban, melyet részben magyaráznak a megváltozott munkakörülmények, az otthoni munkavégzés, a lecsökkentett munkaidő valamint az elveszett munkahely. A többletfutás magyarázó tényezője a nagyobb fokú stressz volt. (DASS-21) A futás alkalmas arra, hogy a megváltozott körülmények miatti felgyülemlett stressz levezetésére szolgáljon és visszaadja a futók szabadság érzését. Mindezeket a vizsgálati személyek az interjúk során megerősítették.
