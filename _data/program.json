@@ -18,8 +18,8 @@
         "place" : "SZE, Menedzsment kampusz",
         "sections" : [
           {
-            "name" : "Műszaki tudományok (informatika és fizika)",
-            "presentations" : ["Hegyhati_Mate", "Hegyhati_Mate", "Hegyhati_Mate", "Hegyhati_Mate", "Hegyhati_Mate"]
+            "name" : "Irodalom",
+            "presentations" : ["Adorjani_Zsolt", "Adorjani_Zsolt", "Adorjani_Zsolt", "Adorjani_Zsolt", "Adorjani_Zsolt"]
           },
           {
             "name" : "Pszichológiatudomány és neveléstudomány",
@@ -49,7 +49,7 @@
           },
           {
             "name" : "Urak előadásai",
-            "presentations": ["Csitei_Bela", "Hegyhati_Mate", "Csitei_Bela"]
+            "presentations": ["Csitei_Bela", "Adorjani_Zsolt", "Csitei_Bela"]
           },
           {
             "name" : "Vegyes szekció",
@@ -114,7 +114,7 @@
           },
           {
             "name" : "Urak előadásai",
-            "presentations": ["Csitei_Bela", "Hegyhati_Mate", "Csitei_Bela"]
+            "presentations": ["Csitei_Bela", "Adorjani_Zsolt", "Csitei_Bela"]
           },
           {
             "name" : "Vegyes szekció",
