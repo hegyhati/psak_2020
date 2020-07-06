@@ -7,7 +7,7 @@ title: Szekciók
   {% for event in day.events %}
     {% if event.sections or event.presentation %}
       <div class="border border-dark rounded-0 my-4 px-0 mx-0 row" id="{{event.name}}">
-        <div class="col-12 d-flex justify-content-between bg-dark text-light">
+        <div class="col-12 d-flex justify-content-between psat-blue-white">
           <div class="p-1"> {{event.start}} </div> 
           <div class="p-1"> <b>{{event.name}}</b> </div>
           <div class="p-1"> {{event.finish}} </div>
@@ -17,7 +17,7 @@ title: Szekciók
           {% for section in event.sections %}
             <div class="col-sm-{{col}} px-0">
               <div class="list-group rounded-0">
-                <div class="list-group-item list-group-item-secondary">{{section.name}}</div>
+                <div class="list-group-item psat-gold-blue">{{section.name}}</div>
                 {% for presentation_id in section.presentations %} 
                 {% for presentation in site.presentations %}
                 {% assign raw_id=presentation.id | remove: "/presentations/" %}

@@ -12,4 +12,19 @@ a
 a:hover
 {
 	color:#2b406F;
+	text-decoration:none;
 }
+
+.psat-blue-white
+{
+	background: #45587f;
+	color: white;
+}
+
+.psat-gold-blue 
+{
+	background: #ccc1a1;
+	color: #55668C;
+}
+
+
