@@ -23,7 +23,7 @@
           },
           {
             "name" : "Pszichológiatudomány és neveléstudomány",
-            "presentations": ["Mayer_Krisztina", "Mayer_Krisztina", "Bugyik_Edina", "Bugyik_Edina", "Mayer_Krisztina"]
+            "presentations": ["Mayer_Krisztina", "Mayer_Krisztina","Mayer_Krisztina"]
           }
         ]
       },
@@ -45,15 +45,15 @@
         "sections" : [
           {
             "name" : "Hölgyek előadásai",
-            "presentations" : ["Mayer_Krisztina", "Bugyik_Edina", "Mayer_Krisztina"]
+            "presentations" : ["Mayer_Krisztina", "Mayer_Krisztina"]
           },
           {
             "name" : "Urak előadásai",
-            "presentations": ["Csitei_Bela", "Adorjani_Zsolt", "Csitei_Bela"]
+            "presentations": ["Csitei_Bela", "Adorjani_Zsolt", "Pelles_Marton"]
           },
           {
             "name" : "Vegyes szekció",
-            "presentations": ["Mayer_Krisztina", "Csitei_Bela", "Bugyik_Edina"]
+            "presentations": ["Mayer_Krisztina", "Csitei_Bela"]
           }
         ]
       },
@@ -110,7 +110,7 @@
         "sections" : [
           {
             "name" : "Hölgyek előadásai",
-            "presentations" : ["Mayer_Krisztina", "Bugyik_Edina", "Mayer_Krisztina"]
+            "presentations" : ["Mayer_Krisztina", "Mayer_Krisztina"]
           },
           {
             "name" : "Urak előadásai",
@@ -118,7 +118,7 @@
           },
           {
             "name" : "Vegyes szekció",
-            "presentations": ["Mayer_Krisztina", "Csitei_Bela", "Bugyik_Edina"]
+            "presentations": ["Mayer_Krisztina", "Csitei_Bela"]
           }
         ]
       } 

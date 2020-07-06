@@ -1,0 +1,6 @@
+---
+presenter: Pelles Márton
+title: "Az innovatív haditechnológiára alapozott meggazdagodás és politikai befolyásszerzés: Robert Whitehead szerepe a fiumei torpedógyártás világsikerében (1823–1923)"
+---
+
+Robert Whitehead (1823–1905) neve mára már összeforrott a torpedó, mint fegyvernem forradalmasításával és világhírűvé tételével. Ennek az volt az oka, hogy az általa kifejlesztett, robbanófejjel felszerelt harci eszköz az évezredek óta használt ún. döfő orrot elavulttá tette az 1870-es évekre, és a tengeri hadviselésben a pusztítás mértékében egészen az atombomba első bevetéséig domináns fegyvertípus tudott maradni. A brit mérnök Nyugat-Európát bejárva végül Fiuméban telepedett le 1856-ban, ahol előbb gőzgépek gyártásával foglalkozott, majd találkozva Giovanni Luppis partvédő fegyverének tervével, 1866-ra megalkotta a modern fogalmaink szerinti torpedó prototípusát. A folyamatosan továbbfejlesztett fegyverére alapozva Whitehead saját céget alapított Fiuméban, és a következő évtizedekben a torpedó révén nemzetközi elismertségre, nagy vagyonra és hírnévre tett szert. 1905-ben bekövetkezett halálával nemcsak a gyár, de családja életében is hatalmas űrt hagyott maga után. Előadásomban felhasználom a Whitehead családról és a fiumei gyárról fennmaradt statisztikai, levéltári, sajtó és szakirodalmi forrásokat, és bemutatom Whitehead karrierjét.
