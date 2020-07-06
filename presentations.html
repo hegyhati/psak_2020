@@ -2,15 +2,34 @@
 title: Előadások listája
 ---
 
+{% assign initial = "_" %}
+{% for presentation in site.presentations %}
+  {% assign current=presentation.id | remove: "/presentations/" | slice: 0 | upcase %}
+  {% if initial != current %}
+    {% assign initial = current %}
+    <a class="btn btn-dark psat-blue-white" href="#initial-{{initial}}">{{initial}}</a>
+  {% endif %}
+{% endfor %}
+
+<hr />
+
 <div class="list-group">
+  {% assign initial = "_" %}
   {% for presentation in site.presentations %}
-  <a href="{{site.baseurl}}{{presentation.url}}" class="list-group-item list-group-item-action list-group-item-light text-dark">
-    <h5 class="mb-1">{{presentation.title}}</h5>
-    <p class="mb-1">{{presentation.presenter}}</p>
-    <div class="d-md-inline d-sm-none d-none">
-      <hr class="mx-4">
-      {{presentation.content | slice: 0, 300 | append: "... " }}
-    </div>
-  </a>
+    {% assign current=presentation.id | remove: "/presentations/" | slice: 0 | upcase %}
+    {% if initial != current %}
+      {% assign initial = current %}
+      <span class="list-group-item psat-gold-blue" id="initial-{{initial}}">
+        <h5 class="mb-1 text-center">{{initial}}</h5>
+      </span>
+    {% endif %}
+    <a href="{{site.baseurl}}{{presentation.url}}" class="list-group-item list-group-item-action list-group-item-light text-dark">
+      <h5 class="mb-1">{{presentation.title}}</h5>
+      <p class="mb-1">{{presentation.presenter}}</p>
+      <div class="d-md-inline d-sm-none d-none">
+        <hr class="mx-4">
+        {{presentation.content | slice: 0, 300 | append: "... " }}
+      </div>
+    </a>
   {% endfor %}
 </div>
