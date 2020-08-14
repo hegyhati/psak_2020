@@ -1,0 +1,12 @@
+---
+presenter: Hörömpöli Ádám
+title: "Hazardírozás a problémás szerencsejáték használattal, avagy hol marad a hatékony figyelmeztetés?"
+---
+
+Doktoranduszként a problémás- és patologikus szerencsejáték használat és az érzelemszabályozás közti kapcsolatot vizsgálom. Ezen fajta viselkedéses függőség terén Magyarországon átlag 3,3%-os élethossz prevalencia figyelhető (Kun, Balázs, Arnold, Paksi, & Demetrovics, 2012). A szakirodalmi áttekintő készítésekor feltűnt, hogy a keresési kulcsszavak és a hirdetésoptimalizálás miatt egyre több a szerencsejátékkal kapcsolatos hirdetéssel találkozom online. Ebből adódik a kérdés, hogy ha a például a problémás/patologikus szerencsejáték használó volnék és interneten keresnék segítséget, akkor a keresés miatt feltűnő reklámok mennyiben rontanák a helyzetem?
+
+Mivel ezek érzelmi alapú üzenetek, melyek fogyasztásra ösztönöznek (Parke et al., 2014), ráadásul a szerencsejáték esetében magát a szerencsejátékot teszik elfogadhatóvá, hétköznapivá például úgy, hogy könnyű pénzszerzési lehetőségnek tüntetik fel magukat, tudva, hogy mindezek pozitív kapcsolatban vannak a problémás- és a patologikus szerencsejáték használattal (Gupta et al., 2013), bátran kijelenthetem, hogy nem sokat segítenek a helyzeten. Ráadásul ezekre a reklámokra a veszélyeztetettebb csoportok fogékonyabban (Parke et al., 2014). Jobban fel tudják idézni ezek tartalmát (Derevensky et al. 2010 in Parke et al., 2014) és könnyebben is észlelik ezeket (Binde, 2009 in Parke et al., 2014). A helyzetet az is súlyosbítja, hogy az ilyen reklámok mennyiségéhez is viszonyítva kevés a figyelmeztető üzenet (Gupta et al., 2013 és Parke et al., 2014). Ha megnézzük egy magyarországi kaparós sorsjegy hátát, látjuk, hogy ez néhány sor, amik általában csak nyerési valószínűségi mutatók, melyek a racionális, ésszerű döntést hivatottak támogatni. Azonban az így felépített figyelmeztető üzenetek, ahogy erre Gainsbury (2015) is rámutat, pont a veszélyeztetett csoportok esetében nem működnek, vagy csak nagyon alacsony hatásfokkal. De ha ezek megfelelő stratégiával készülnek, (pl. pozitív önértélekést támogató keretezés) hatékonyságuk megnő (Gainsbury, 2015).
+
+Előadásomban az ezen a téren készülő kutatásom hozom megvitatásra az előzetes adatokkal, hogy a szélesebb kutatói közönség meglátásait bevonva hazai szinten is hatékonyabb prevalens segítséget tudjunk majd nyújtani.
+
+Kulcsszavak: problémás- és patologikus szerencsejáték használat, viselkedéses függőség, reklámok, figyelmeztető üzenetek
