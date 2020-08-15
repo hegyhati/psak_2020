@@ -1,0 +1,8 @@
+---
+presenter: Domsa Zsófia
+title: "Trauma és emlékezet a kortárs norvég irodalomban"
+---
+
+A kortárs norvég irodalom egyik meghatározó témája a történelmi és a személyes traumák megjelenítése. A történelmi traumák jellemzően a 2011. július 22-én Anders Behring Breivik által elkövetett terrorhoz kötődnek, melynek során Oslóban és Utøya szigetén 77 ember vesztette életét. A 2011-es trauma jelenik meg Cecilie Løveid Straff (Büntetés) című költeményében vagy Brit Bildøen Sju dagar i august (Hét nap augusztusban) című regényében. A személyes traumákról szóló művek elsősorban a családon belüli abúzust tárgyalják, és a kortárs regényekben főleg az autofikciós irodalmi hullámhoz kapcsolhatók, mint Karl Ove Knausgård Harcom című regénye és Vigdis Hjorth Örökség című műve. Mindkét tematikus csoportról elmondható, hogy a szövegekből a traumát kiváltó okok és azok szimptómái egyaránt kiolvashatók. Az irodalmi olvasat célja ugyanakkor nem a diagnózis felállítása, vagy a traumát kiváltó esemény leírása, és nem is annak feldolgozása. Az elemzés szempontjából az irodalmi megformálás elsődleges, így a trauma által az emlékezetben hagyott nyomok, képek, benyomások vizsgálata, a trauma által okozott komplex állapot megértése a fő feladat.
+
+A traumákat tárgyaló irodalmi szövegek ugyanakkor sokféle választ, egyaránt kritikát és mintát fogalmaznak meg arra, hogy a trauma élménye és az azt követő reakciók miként befolyásolják az egyént és az emberi közösségeket. Előadásomban egy-egy kortárs norvég mű elemzésével a történelmi és a személyes traumaélmények irodalmi megjelenítését, az emlékezet és a fantázia összefonódását mutatom be az emlékezetkutatás irodalomelméleti szempontból is jelentőséggel bíró eredményei alapján.
