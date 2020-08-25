@@ -1,5 +1,5 @@
 ---
-presenter: Dr. Mecsi Beatrix
+presenter: dr. Mecsi Beatrix
 title: "Házasodni vagy cölibátusban élni? Koreai szerzetesek dilemmái a 20. század elejétől napjainkig"
 ---
 
