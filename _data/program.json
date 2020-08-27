@@ -1,127 +1,87 @@
 [
   {
-    "date" : "2020-10-08",
+    "date" : "2020-10-01",
     "events" : [
       {
-        "start" : "11:00", "finish" : "11:30",
-        "name"  : "Érkezés, regisztráció, szállás elfoglalása",
-        "place" : "Famulus Hotel"
-      }, 
+        "start" : "00:00", "finish" : "00:01",
+        "name"  : "Tervezett rendes szekciok",
+        "place" : "Foobar"
+      },
       {
-        "start" : "11:30", "finish" : "13:30",
-        "name"  : "Ebéd",
-        "place" : "Széchenyi Étterem"
-      }, 
-      {
-        "start" : "13:35", "finish" : "15:40",
+        "start" : "01:00", "finish" : "02:30",
         "name"  : "Szekcióelőadások 1.",
         "place" : "SZE, Menedzsment kampusz",
         "sections" : [
           {
-            "name" : "Irodalom",
-            "presentations" : ["Mate_Zsolt", "Adorjani_Zsolt", "Adorjani_Zsolt", "Adorjani_Zsolt", "Adorjani_Zsolt"]
+            "name" : "Agrár, környezet, ilyesmi",
+            "presentations" : ["Csondor_Katalin", "Mayer_Martin_Janos", "Palfi_Xenia","Banati_Diana"]
           },
           {
-            "name" : "Pszichológiatudomány és neveléstudomány",
-            "presentations": ["Mayer_Krisztina", "Mayer_Krisztina","Mayer_Krisztina"]
-          }
+            "name" : "Orvosi",
+            "presentations" : ["Hajdu_Balint","Jedlovszky_Hajdu_Angela","Jurecska_Laura","Kornyei_Balint_Soma"]
+          },
+          {
+            "name" : "Rágcsálók",
+            "presentations" : ["Miskolczi_Christina","Varga_Zoltan_K","Ujvari_Balazs"]
+          },
         ]
       },
       {
-        "start" : "15:40", "finish" : "16:00",
-        "name"  : "Kávészünet",
-        "place" : "SZE, Menedzsment kampusz",
-      },
-      {
-        "start" : "16:00", "finish" : "17:00",
-        "name"  : "Plenáris előadás",
-        "place" : "SZE, Új Tudástér 114.",
-        "presentation" : "Csitei_Bela"
-      }, 
-      {
-        "start" : "17:00", "finish" : "18:15",
+        "start" : "03:00", "finish" : "04:30",
         "name"  : "Szekcióelőadások 2.",
         "place" : "SZE, Menedzsment kampusz",
         "sections" : [
           {
-            "name" : "Hölgyek előadásai",
-            "presentations" : ["Mayer_Krisztina", "Mayer_Krisztina"]
+            "name" : "COVID",
+            "presentations" : ["Ormai_Eszter","Szemelyi_Laszlo","Mayer_Krisztina"]
           },
           {
-            "name" : "Urak előadásai",
-            "presentations": ["Csitei_Bela", "Adorjani_Zsolt", "Pelles_Marton"]
+            "name" : "Sport, pszichológia, szociológia",
+            "presentations" : ["Kalbli_Katalin","Harsanyi_Szabolcs_Gergo","Horompoli_Adam","Udvari_Beata"]
           },
           {
-            "name" : "Vegyes szekció",
-            "presentations": ["Mayer_Krisztina", "Csitei_Bela"]
-          }
+            "name" : "Nyelv és irodalom",
+            "presentations" : ["Domsa_Zsofia","Adorjani_Zsolt","Huszthy_Balint","Gocsal_Akos"]
+          },
         ]
       },
       {
-        "start" : "19:00", "finish" : "20:30",
-        "name"  : "Vacsora",
-        "place" : "Famulus Étterem"
-      }      
-    ] 
-  },
-  {
-    "date" : "2020-10-09",
-    "events" : [
-      {
-        "start" : "08:00", "finish" : "09:30",
-        "name"  : "Reggeli",
-        "place" : "Famulus Étterem"
-      }, 
-      {
-        "start" : "10:00", "finish" : "16:00",
-        "name"  : "Egész napos túrázás",
-        "place" : "Bakony"
-      } ,
-      {
-        "start" : "17:00", "finish" : "18:00",
-        "name"  : "Plenáris előadás 2",
-        "place" : "Famulus Hotel, konferencia központ",
-        "presentation" : "Mayer_Krisztina"
-      }, 
-      {
-        "start" : "19:00", "finish" : "20:30",
-        "name"  : "Vacsora",
-        "place" : "Famulus Étterem"
-      } 
-    ]
-  },
-  {
-    "date" : "2020-10-10",
-    "events" : [
-      {
-        "start" : "08:00", "finish" : "13:30",
-        "name"  : "Budapest SPAR Maraton",
-        "place" : "Budapest, rakpart"
-      }, 
-      {
-        "start" : "14:00", "finish" : "16:00",
-        "name"  : "Elégetett kalóriák visszatöltése",
-        "place" : "VitalCafé, Győr"
-      } ,
-      {
-        "start" : "16:00", "finish" : "17:40",
+        "start" : "05:00", "finish" : "06:30",
         "name"  : "Szekcióelőadások 3.",
         "place" : "SZE, Menedzsment kampusz",
         "sections" : [
           {
-            "name" : "Hölgyek előadásai",
-            "presentations" : ["Mayer_Krisztina", "Mayer_Krisztina"]
+            "name" : "Mesterséges intelligencia és napjaink kihívásai",
+            "presentations" : ["Virag_Adam","Bakonyi_Zoltan","Csitei_Bela","Jurecska_Laura","Hohmann_Balazs"]
           },
-          {
-            "name" : "Urak előadásai",
-            "presentations": ["Csitei_Bela", "Adorjani_Zsolt", "Csitei_Bela"]
-          },
-          {
-            "name" : "Vegyes szekció",
-            "presentations": ["Mayer_Krisztina", "Csitei_Bela"]
-          }
         ]
-      } 
+      },
+      {
+        "start" : "07:00", "finish" : "08:30",
+        "name"  : "Szekcióelőadások 4.",
+        "place" : "SZE, Menedzsment kampusz",
+        "sections" : [
+          {
+            "name" : "Régi jog",
+            "presentations" : ["Laszlo_Balazs","Korsosne_Delacasse_Krisztina","Nagy_Noemi","Szepvolgyi_Eniko","Niklai_Patricia_Dominika"]
+          },
+          {
+            "name" : "Régen történt",
+            "presentations" : ["Mate_Zsolt","Mecsi_Beatrix","Szabo_Robert","Pelles_Marton"]
+          },
+        ]
+      },
+      {
+        "start" : "09:00", "finish" : "10:30",
+        "name"  : "Szekcióelőadások 5.",
+        "place" : "Zsinagóga",
+        "sections" : [
+          {
+            "name" : "Építészet",
+            "presentations" : ["Toth_Eniko","Vukoszavlyev_Zoran"]
+          },
+        ]
+      },
     ]
   }
 ]

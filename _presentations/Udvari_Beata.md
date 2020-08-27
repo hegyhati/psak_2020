@@ -1,5 +1,5 @@
 ---
-presenter: Udvari Beáta - Vizi Noémi
+presenter: Udvari Beáta, Vizi Noémi
 title: "A globális állampolgárság a Z generáció körében"
 ---
 
