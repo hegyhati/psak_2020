@@ -14,11 +14,11 @@
         "sections" : [
           {
             "name" : "Agrár, környezet, ilyesmi",
-            "presentations" : ["Csondor_Katalin", "Mayer_Martin_Janos", "Palfi_Xenia","Banati_Diana"]
+            "presentations" : ["Mayer_Martin_Janos", "Palfi_Xenia","MISSING_Banati_Diana"]
           },
           {
             "name" : "Orvosi",
-            "presentations" : ["Hajdu_Balint","Jedlovszky_Hajdu_Angela","Jurecska_Laura","Kornyei_Balint_Soma"]
+            "presentations" : ["Hajdu_Balint","Jedlovszky_Hajdu_Angela","Jurecska_Laura","MISSING_Kornyei_Balint_Soma"]
           },
           {
             "name" : "Rágcsálók",
@@ -33,7 +33,7 @@
         "sections" : [
           {
             "name" : "COVID",
-            "presentations" : ["Ormai_Eszter","Szemelyi_Laszlo","Mayer_Krisztina"]
+            "presentations" : ["Szemelyi_Laszlo","Mayer_Krisztina"]
           },
           {
             "name" : "Sport, pszichológia, szociológia",
@@ -77,8 +77,8 @@
         "place" : "Zsinagóga",
         "sections" : [
           {
-            "name" : "Építészet",
-            "presentations" : ["Toth_Eniko","Vukoszavlyev_Zoran"]
+            "name" : "Építészet és muzsika",
+            "presentations" : ["Toth_Eniko","Vukoszavlyev_Zoran","Szives_Marton_Gabor"]
           },
         ]
       },
