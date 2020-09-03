@@ -13,12 +13,12 @@
         "place" : "SZE, Menedzsment kampusz",
         "sections" : [
           {
-            "name" : "Agrár, környezet, ilyesmi",
-            "presentations" : ["Mayer_Martin_Janos", "Palfi_Xenia","MISSING_Banati_Diana"]
+            "name" : "Napjaink kihívásai",
+            "presentations" : ["Mayer_Martin_Janos","Virag_Adam","Szemelyi_Laszlo","Udvari_Beata","Kuthy_Antal"]
           },
           {
-            "name" : "Orvosi",
-            "presentations" : ["Hajdu_Balint","Jedlovszky_Hajdu_Angela","Jurecska_Laura","MISSING_Kornyei_Balint_Soma"]
+            "name" : "Emberek, növények",
+            "presentations" : [ "Palfi_Xenia","Banati_Diana", "Hajdu_Balint","Jedlovszky_Hajdu_Angela"]
           },
           {
             "name" : "Rágcsálók",
@@ -32,12 +32,8 @@
         "place" : "SZE, Menedzsment kampusz",
         "sections" : [
           {
-            "name" : "COVID",
-            "presentations" : ["Szemelyi_Laszlo","Mayer_Krisztina"]
-          },
-          {
             "name" : "Sport, pszichológia, szociológia",
-            "presentations" : ["Kalbli_Katalin","Harsanyi_Szabolcs_Gergo","Horompoli_Adam","Udvari_Beata"]
+            "presentations" : ["Mayer_Krisztina", "Kalbli_Katalin","Harsanyi_Szabolcs_Gergo","Horompoli_Adam"]
           },
           {
             "name" : "Nyelv és irodalom",
@@ -51,8 +47,8 @@
         "place" : "SZE, Menedzsment kampusz",
         "sections" : [
           {
-            "name" : "Mesterséges intelligencia és napjaink kihívásai",
-            "presentations" : ["Virag_Adam","Bakonyi_Zoltan","Csitei_Bela","Hohmann_Balazs"]
+            "name" : "MI, robotok és az ember",
+            "presentations" : ["Bakonyi_Zoltan","Csitei_Bela","Hohmann_Balazs","Jurecska_Laura"]
           },
         ]
       },
