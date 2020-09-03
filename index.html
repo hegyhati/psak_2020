@@ -14,6 +14,13 @@ title: Konferencia program
         <b>{{event.name}}</b>
       {% endif %}
       ({{event.place}})
+      {% if event.sections %}
+      <ul>
+        {% for section in event.sections %}
+          <li>{{section.name}}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
     </li>
   {% endfor %}
   </ul>
