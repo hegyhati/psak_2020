@@ -18,7 +18,8 @@
         "place" : "Management Campus 001-002",
         "sections" : [
           {
-            "name" : "Sport, pszichológia, szociológia",
+            "name" : "Sport és játék",
+            "chair" : "Hegyháti Máté",
             "presentations" : ["Mayer_Krisztina", "Kalbli_Katalin","Harsanyi_Szabolcs_Gergo","Horompoli_Adam"]
           },
         ]
@@ -35,10 +36,12 @@
         "sections" : [
           {
             "name" : "Emberek, növények",
+            "chair" : "? Siska Andrea ?",
             "presentations" : [ "Palfi_Xenia","Banati_Diana", "Hajdu_Balint","Jedlovszky_Hajdu_Angela"]
           },
           {
             "name" : "Nyelv és irodalom",
+            "chair" : "? Ormai Eszter ?",
             "presentations" : ["Domsa_Zsofia","Adorjani_Zsolt","Huszthy_Balint","Gocsal_Akos"]
           },
         ]
@@ -87,10 +90,12 @@
         "sections" : [
           {
             "name" : "Napjaink kihívásai",
+            "chair" : "? Harsanyi Gergo ?",
             "presentations" : ["Mayer_Martin_Janos","Virag_Adam","Szemelyi_Laszlo","Udvari_Beata","Kuthy_Antal"]
           },
           {
             "name" : "Régi jog",
+            "chair" : "Csitei Béla",
             "presentations" : ["Laszlo_Balazs","Korsosne_Delacasse_Krisztina","Nagy_Noemi","Szepvolgyi_Eniko","Niklai_Patricia_Dominika"]
           },
         ]
@@ -107,6 +112,7 @@
         "sections" : [
           {
             "name" : "MI, robotok és az ember",
+            "chair" : "Hegyháti Máté",
             "presentations" : ["Bakonyi_Zoltan","Csitei_Bela","Hohmann_Balazs","Jurecska_Laura"]
           },
         ]
@@ -128,6 +134,7 @@
         "sections" : [
           {
             "name" : "Építészet és muzsika",
+            "chair" : "? Szabó Franciska, Bujdosó Ildikó ?",
             "presentations" : ["Toth_Eniko","Vukoszavlyev_Zoran","Szives_Marton_Gabor"]
           }
         ]
@@ -149,6 +156,7 @@
         "sections" : [
           {
             "name" : "Régen történt",
+            "chair" : "? Sipos Róbert ?",
             "presentations" : ["Mate_Zsolt","Mecsi_Beatrix","Szabo_Robert","Pelles_Marton"]
           },
         ]
@@ -164,7 +172,8 @@
         "place" : "Management Campus 001-002",
         "sections" : [
           {
-            "name" : "Rágcsálók",
+            "name" : "Kisállatokkal a tudományban",
+            "chair" : "Jedlovszky-Hajdú Angéla",
             "presentations" : ["Miskolczi_Christina","Varga_Zoltan_K","Ujvari_Balazs"]
           },
         ]
