@@ -1,5 +1,5 @@
 ---
-presenter: dr. Niklai Patrícia Dominika
+presenter: Niklai Patrícia Dominika
 title: "Baranyai iskolák a Tanácsköztársaság idején"
 ---
 
