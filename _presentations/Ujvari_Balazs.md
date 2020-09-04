@@ -1,5 +1,5 @@
 ---
-presenter: dr. Ujvári Balázs
+presenter: Ujvári Balázs
 title: "A Parkinson-kórhoz társuló hangulatzavarok modellezése és vizsgálata patkányban"
 ---
 
