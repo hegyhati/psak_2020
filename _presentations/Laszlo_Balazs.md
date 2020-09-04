@@ -1,5 +1,5 @@
 ---
-presenter: dr. László Balázs
+presenter: László Balázs
 title: "A királyi jog elemei Szent László és Kálmán törvényeiben"
 ---
 
