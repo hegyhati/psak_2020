@@ -18,7 +18,7 @@ title: Szekciók
             <div class="col-sm-{{col}} px-0">
               <div class="list-group rounded-0">
                 <div class="list-group-item psat-gold-blue">{{section.name}}</div>
-                <div class="list-group-item list-group-item-light">Elnök: {{section.chair}}</div>
+                <!--div class="list-group-item list-group-item-light">Elnök: {{section.chair}}</div-->
                 {% for presentation_id in section.presentations %} 
                 {% for presentation in site.presentations %}
                 {% assign raw_id=presentation.id | remove: "/presentations/" %}

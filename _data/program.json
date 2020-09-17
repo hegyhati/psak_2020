@@ -42,7 +42,7 @@
           {
             "name" : "Nyelv és irodalom",
             "chair" : "? Ormai Eszter ?",
-            "presentations" : ["Domsa_Zsofia","Adorjani_Zsolt","Huszthy_Balint","Gocsal_Akos"]
+            "presentations" : ["Domsa_Zsofia","Huszthy_Balint","Gocsal_Akos"]
           },
         ]
       },
@@ -91,7 +91,7 @@
           {
             "name" : "Napjaink kihívásai",
             "chair" : "? Harsanyi Gergo ?",
-            "presentations" : ["Mayer_Martin_Janos","Virag_Adam","Szemelyi_Laszlo","Udvari_Beata","Kuthy_Antal"]
+            "presentations" : ["Mayer_Martin_Janos","Virag_Adam","Szemelyi_Laszlo","Kuthy_Antal"]
           },
           {
             "name" : "Régi jog",
@@ -113,7 +113,7 @@
           {
             "name" : "MI, robotok és az ember",
             "chair" : "Hegyháti Máté",
-            "presentations" : ["Bakonyi_Zoltan","Csitei_Bela","Hohmann_Balazs","Jurecska_Laura"]
+            "presentations" : ["Bakonyi_Zoltan","Csitei_Bela","Hohmann_Balazs"]
           },
         ]
       },
