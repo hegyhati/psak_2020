@@ -3,7 +3,7 @@ title: Konferencia program
 ---
 
 {% for day in site.data.program %}
-<h5>{{day.date | date: "%A, %Y.%m.%d."}}</h5>
+<h5>{{day.date-hu}}</h5>
   <ul style="list-style-type: none;">
   {% for event in day.events %}
     <li>

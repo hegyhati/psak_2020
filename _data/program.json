@@ -1,6 +1,7 @@
 [
   {
     "date" : "2020-10-08",
+    "date-hu": "Október 8, csütörtök",
     "events" : [
       {
         "start" : "09:00", "finish" : "12:00",
@@ -77,6 +78,7 @@
   },
   {
     "date" : "2020-10-09",
+    "date-hu": "Október 9, péntek",
     "events" : [
       {
         "start" : "08:30", "finish" : "09:30",
@@ -143,6 +145,7 @@
   },
   {
     "date" : "2020-10-10",
+    "date-hu": "Október 10, szombat",
     "events" : [
       {
         "start" : "08:00", "finish" : "09:00",
