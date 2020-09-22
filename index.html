@@ -13,13 +13,12 @@ title: Konferencia program
       {% else %}
         <b>{{event.name}}</b>
       {% endif %}
-      ({{event.place}})
+      {% comment %} ({{event.place}}) {% endcomment %}
       {% if event.sections %}
-      <ul>
-        {% for section in event.sections %}
-          <li>{{section.name}}</li>
+      : {% for section in event.sections %}
+          {% if forloop.first == false %} / {% endif %}
+          {{section.name}}
         {% endfor %}
-      </ul>
       {% endif %}
     </li>
   {% endfor %}

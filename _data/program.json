@@ -4,19 +4,8 @@
     "date-hu": "Október 8, csütörtök",
     "events" : [
       {
-        "start" : "09:00", "finish" : "12:00",
-        "name"  : "Szállás elfoglalása",
-        "place" : "Központi Kollégium - K0"
-      },
-      {
-        "start" : "12:00", "finish" : "13:30",
-        "name"  : "Ebéd",
-        "place" : "Széchenyi Étterem"
-      },
-      {
         "start" : "14:00", "finish" : "15:30",
         "name"  : "Szekcióelőadások 1.",
-        "place" : "Management Campus 001-002",
         "sections" : [
           {
             "name" : "Sport és játék",
@@ -27,13 +16,11 @@
       },
       {
         "start" : "15:30", "finish" : "16:00",
-        "name"  : "Kávészünet, kötetlen beszélgetés",
-        "place" : "Management Campus Aula"
+        "name"  : "Kávészünet",
       },
       {
         "start" : "16:00", "finish" : "17:30",
         "name"  : "Szekcióelőadások 2.",
-        "place" : "Management Campus 001-002",
         "sections" : [
           {
             "name" : "Emberek, növények",
@@ -50,29 +37,20 @@
       {
         "start" : "18:00", "finish" : "18:30",
         "name"  : "Megnyitó",
-        "place" : "Management Campus 001-002"
       },
       {	
         "start" : "18:30", "finish" : "19:00",	
         "name"  : "Plenáris előadás: Prof. Dr. Rechnitzer János",	
-        "place" : "Management Campus 001-002",	
         "presentation" : "to_be_announced"	
       }, 
       {	
         "start" : "19:00", "finish" : "19:30",	
         "name"  : "Plenáris előadás: Prof. Dr. Bokor József",	
-        "place" : "Management Campus 001-002",	
         "presentation" : "to_be_announced"	
-      },  
-      {	
-        "start" : "19:30", "finish" : "21:00",	
-        "name"  : "Fogadás",	
-        "place" : "Management Campus II. emelet",	
       },  
       {	
         "start" : "21:00", "finish" : "22:00",	
         "name"  : "Közgyűlés",	
-        "place" : "Management Campus 001-002",	
       }, 
     ]
   },
@@ -81,14 +59,8 @@
     "date-hu": "Október 9, péntek",
     "events" : [
       {
-        "start" : "08:30", "finish" : "09:30",
-        "name"  : "Reggeli",
-        "place" : "Széchenyi Étterem"
-      },
-      {
         "start" : "09:30", "finish" : "11:30",
         "name"  : "Szekcióelőadások 3.",
-        "place" : "Management Campus 001-002",
         "sections" : [
           {
             "name" : "Napjaink kihívásai",
@@ -104,13 +76,11 @@
       },
       {
         "start" : "11:30", "finish" : "13:00",
-        "name"  : "Ebéd",
-        "place" : "Széchenyi Étterem"
+        "name"  : "Ebédszünet",
       },
       {
         "start" : "13:00", "finish" : "14:30",
         "name"  : "Szekcióelőadások 4.",
-        "place" : "Management Campus 001-002",
         "sections" : [
           {
             "name" : "MI, robotok és az ember",
@@ -120,19 +90,8 @@
         ]
       },
       {
-        "start" : "14:30", "finish" : "17:00",
-        "name"  : "Szabadprogram, városnézés",
-        "place" : "Győr"
-      },
-      {
-        "start" : "17:00", "finish" : "18:00",
-        "name"  : "Vacsora",
-        "place" : "Management Campus 001-002"
-      },
-      {
         "start" : "18:00", "finish" : "19:30",
         "name"  : "Szekcióelőadások 5. és zenei program",
-        "place" : "Zsinagóga",
         "sections" : [
           {
             "name" : "Építészet és muzsika",
@@ -148,14 +107,8 @@
     "date-hu": "Október 10, szombat",
     "events" : [
       {
-        "start" : "08:00", "finish" : "09:00",
-        "name"  : "Reggeli",
-        "place" : "Széchenyi Étterem"
-      },
-      {
         "start" : "09:00", "finish" : "10:30",
         "name"  : "Szekcióelőadások 6.",
-        "place" : "Management Campus 001-002",
         "sections" : [
           {
             "name" : "Régen történt",
@@ -166,13 +119,11 @@
       },
       {
         "start" : "10:30", "finish" : "11:00",
-        "name"  : "Kávészünet, kötetlen beszélgetés",
-        "place" : "Management Campus Aula"
+        "name"  : "Kávészünet",
       },
       {
         "start" : "11:00", "finish" : "12:00",
         "name"  : "Szekcióelőadások 7.",
-        "place" : "Management Campus 001-002",
         "sections" : [
           {
             "name" : "Kisállatokkal a tudományban",
