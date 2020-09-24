@@ -17,7 +17,7 @@ title: Konferencia program
       {% if event.sections %}
       : {% for section in event.sections %}
           {% if forloop.first == false %} / {% endif %}
-          {{section.name}}
+          {{section.name}} ({{section.presentations.size}})
         {% endfor %}
       {% endif %}
     </li>
