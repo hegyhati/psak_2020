@@ -8,6 +8,21 @@
         "name"  : "Szekcióelőadások 1.",
         "sections" : [
           {
+            "name" : "Emberek, növények",
+            "chair" : "? Siska Andrea ?",
+            "presentations" : [ "Palfi_Xenia","Banati_Diana", "Hajdu_Balint","Jedlovszky_Hajdu_Angela"]
+          },
+        ]
+      },
+      {
+        "start" : "15:30", "finish" : "16:00",
+        "name"  : "Szünet",
+      },
+      {
+        "start" : "16:00", "finish" : "17:30",
+        "name"  : "Szekcióelőadások 2.",
+        "sections" : [
+          {
             "name" : "Sport és játék",
             "chair" : "Hegyháti Máté",
             "presentations" : ["Mayer_Krisztina", "Kalbli_Katalin","Harsanyi_Szabolcs_Gergo","Horompoli_Adam"]
@@ -15,24 +30,8 @@
         ]
       },
       {
-        "start" : "15:30", "finish" : "16:00",
-        "name"  : "Kávészünet",
-      },
-      {
-        "start" : "16:00", "finish" : "17:30",
-        "name"  : "Szekcióelőadások 2.",
-        "sections" : [
-          {
-            "name" : "Emberek, növények",
-            "chair" : "? Siska Andrea ?",
-            "presentations" : [ "Palfi_Xenia","Banati_Diana", "Hajdu_Balint","Jedlovszky_Hajdu_Angela"]
-          },
-          {
-            "name" : "Nyelv és irodalom",
-            "chair" : "? Ormai Eszter ?",
-            "presentations" : ["Domsa_Zsofia","Huszthy_Balint","Gocsal_Akos"]
-          },
-        ]
+        "start" : "17:30", "finish" : "18:00",
+        "name"  : "Szünet",
       },
       {
         "start" : "18:00", "finish" : "18:30",
@@ -48,10 +47,6 @@
         "name"  : "Plenáris előadás: Prof. Dr. Bokor József",	
         "presentation" : "to_be_announced"	
       },  
-      {	
-        "start" : "21:00", "finish" : "22:00",	
-        "name"  : "Közgyűlés",	
-      }, 
     ]
   },
   {
@@ -59,7 +54,7 @@
     "date-hu": "Október 9, péntek",
     "events" : [
       {
-        "start" : "09:30", "finish" : "11:30",
+        "start" : "08:30", "finish" : "10:00",
         "name"  : "Szekcióelőadások 3.",
         "sections" : [
           {
@@ -67,6 +62,16 @@
             "chair" : "? Harsanyi Gergo ?",
             "presentations" : ["Mayer_Martin_Janos","Virag_Adam","Szemelyi_Laszlo","Kuthy_Antal"]
           },
+        ]
+      },
+      {
+        "start" : "10:00", "finish" : "10:30",
+        "name"  : "Szünet",
+      },
+      {
+        "start" : "10:30", "finish" : "12:30",
+        "name"  : "Szekcióelőadások 4.",
+        "sections" : [
           {
             "name" : "Régi jog",
             "chair" : "Csitei Béla",
@@ -75,12 +80,12 @@
         ]
       },
       {
-        "start" : "11:30", "finish" : "13:00",
+        "start" : "12:30", "finish" : "14:00",
         "name"  : "Ebédszünet",
       },
       {
-        "start" : "13:00", "finish" : "14:30",
-        "name"  : "Szekcióelőadások 4.",
+        "start" : "14:00", "finish" : "15:15",
+        "name"  : "Szekcióelőadások 5.",
         "sections" : [
           {
             "name" : "MI, robotok és az ember",
@@ -90,16 +95,28 @@
         ]
       },
       {
-        "start" : "18:00", "finish" : "19:30",
-        "name"  : "Szekcióelőadások 5. és zenei program",
+        "start" : "15:15", "finish" : "15:30",
+        "name"  : "Rövid Szünet",
+      },
+      {
+        "start" : "15:30", "finish" : "16:45",
+        "name"  : "Szekcióelőadások 6.",
         "sections" : [
           {
-            "name" : "Építészet és muzsika",
-            "chair" : "? Szabó Franciska, Bujdosó Ildikó ?",
-            "presentations" : ["Toth_Eniko","Szives_Marton_Gabor"]
-          }
+            "name" : "Nyelv és irodalom",
+            "chair" : "? Ormai Eszter ?",
+            "presentations" : ["Domsa_Zsofia","Huszthy_Balint","Gocsal_Akos"]
+          },
         ]
-      }
+      },
+      {
+        "start" : "15:15", "finish" : "15:30",
+        "name"  : "Rövid Szünet",
+      },
+      {	
+        "start" : "17:00", "finish" : "19:00",	
+        "name"  : "PSAT Közgyűlés",	
+      }, 
     ]
   },
   {
@@ -107,31 +124,40 @@
     "date-hu": "Október 10, szombat",
     "events" : [
       {
-        "start" : "09:00", "finish" : "10:30",
-        "name"  : "Szekcióelőadások 6.",
+        "start" : "08:00", "finish" : "10:00",
+        "name"  : "Szekcióelőadások 7.",
         "sections" : [
           {
             "name" : "Régen történt",
             "chair" : "? Sipos Róbert ?",
-            "presentations" : ["Mate_Zsolt","Mecsi_Beatrix","Szabo_Robert","Pelles_Marton"]
+            "presentations" : ["Mate_Zsolt","Mecsi_Beatrix","Szabo_Robert","Pelles_Marton","Toth_Eniko"]
           },
         ]
       },
       {
-        "start" : "10:30", "finish" : "11:00",
-        "name"  : "Kávészünet",
+        "start" : "10:00", "finish" : "10:30",
+        "name"  : "Szünet",
       },
       {
-        "start" : "11:00", "finish" : "12:00",
-        "name"  : "Szekcióelőadások 7.",
+        "start" : "10:30", "finish" : "11:15",
+        "name"  : "Szekcióelőadások 8.",
         "sections" : [
           {
             "name" : "Kisállatokkal a tudományban",
             "chair" : "Jedlovszky-Hajdú Angéla",
-            "presentations" : ["Miskolczi_Christina","Varga_Zoltan_K","Ujvari_Balazs"]
+            "presentations" : ["Miskolczi_Christina","Varga_Zoltan_K"]
           },
         ]
       },
+      {
+        "start" : "11:15", "finish" : "11:30",
+        "name"  : "Rövid Szünet",
+      },
+      {
+        "start" : "11:30", "finish" : "12:00",
+        "name"  : "Zenei program",
+        "presentation" : "Szives_Marton_Gabor"
+      }
     ]
   },
 ]
