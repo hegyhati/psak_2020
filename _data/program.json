@@ -9,7 +9,7 @@
         "sections" : [
           {
             "name" : "Emberek, növények",
-            "chair" : "? Siska Andrea ?",
+            "chair" : "Siska Andrea",
             "presentations" : [ "Palfi_Xenia","Banati_Diana", "Hajdu_Balint","Jedlovszky_Hajdu_Angela"]
           },
         ]
@@ -59,7 +59,7 @@
         "sections" : [
           {
             "name" : "Napjaink kihívásai",
-            "chair" : "? Harsanyi Gergo ?",
+            "chair" : "Harsányi Gergő",
             "presentations" : ["Mayer_Martin_Janos","Virag_Adam","Szemelyi_Laszlo","Kuthy_Antal"]
           },
         ]
@@ -104,7 +104,7 @@
         "sections" : [
           {
             "name" : "Nyelv és irodalom",
-            "chair" : "? Ormai Eszter ?",
+            "chair" : "Ormai Eszter",
             "presentations" : ["Domsa_Zsofia","Huszthy_Balint","Gocsal_Akos"]
           },
         ]
@@ -129,7 +129,7 @@
         "sections" : [
           {
             "name" : "Régen történt",
-            "chair" : "? Sipos Róbert ?",
+            "chair" : "Sipos Róbert",
             "presentations" : ["Mate_Zsolt","Mecsi_Beatrix","Szabo_Robert","Pelles_Marton","Toth_Eniko"]
           },
         ]
@@ -144,7 +144,7 @@
         "sections" : [
           {
             "name" : "Kisállatokkal a tudományban",
-            "chair" : "Jedlovszky-Hajdú Angéla",
+            "chair" : "Jedlovszky Pál",
             "presentations" : ["Miskolczi_Christina","Varga_Zoltan_K"]
           },
         ]
