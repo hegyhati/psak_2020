@@ -3,7 +3,7 @@ presenter: Barczikai Dóra, Jedlovszky-Hajdú Angéla
 title: "Nanorészecske, polimer és kompozit szálrendszerek előállítása orvosi célokra"
 ---
 
-A polimer nanokompozitok előnye napjainkban, hogy mind a nanorészecske, mind a polimer előnyös tulajdonságait tartalmazza, így a létrehozott kompozit felhasználása szélesebb körben megtörténhet.
+A polimer nanokompozitok előnye napjainkban, hogy mind a nanorészecske, mind a polimer előnyös tulajdonságait tartalmazzák, így a létrehozott kompozit felhasználása szélesebb körben megtörténhet.
 
 A Bolyai+ ösztöndíj keretein belül a korábbi kutatásaim alapján antibakteriális nanorészecskéket tervezek kialakítani mesterséges poliaminosav származékokból felépülő szálas rendszerekben hatóanyag tartalom mellett, tehát tudománynépszerűsítő előadásom ezt a tématerületet taglalja. 
 
