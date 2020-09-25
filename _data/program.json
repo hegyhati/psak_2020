@@ -84,22 +84,22 @@
         "name"  : "Ebédszünet",
       },
       {
-        "start" : "14:00", "finish" : "15:15",
+        "start" : "14:00", "finish" : "15:30",
         "name"  : "Szekcióelőadások 5.",
         "sections" : [
           {
             "name" : "MI, robotok és az ember",
             "chair" : "Hegyháti Máté",
-            "presentations" : ["Bakonyi_Zoltan","Csitei_Bela","Hohmann_Balazs"]
+            "presentations" : ["Bakonyi_Zoltan","Csitei_Bela","Hohmann_Balazs","Auer_Adam"]
           },
         ]
       },
       {
-        "start" : "15:15", "finish" : "15:30",
+        "start" : "15:30", "finish" : "15:45",
         "name"  : "Rövid Szünet",
       },
       {
-        "start" : "15:30", "finish" : "16:45",
+        "start" : "15:45", "finish" : "16:50",
         "name"  : "Szekcióelőadások 6.",
         "sections" : [
           {
@@ -110,7 +110,7 @@
         ]
       },
       {
-        "start" : "16:45", "finish" : "17:00",
+        "start" : "16:50", "finish" : "17:00",
         "name"  : "Rövid Szünet",
       },
       {	
