@@ -158,17 +158,6 @@
         "name"  : "Rövid Szünet",
       },
       {
-        "start" : "10:30", "finish" : "11:15",
-        "name"  : "Szekcióelőadások 8.",
-        "sections" : [
-          {
-            "name" : "Kisállatokkal a tudományban",
-            "chair" : "Jedlovszky Pál",
-            "presentations" : ["Miskolczi_Christina","Varga_Zoltan_K"]
-          },
-        ]
-      },
-      {
         "start" : "11:30", "finish" : "12:00",
         "name"  : "Művészeti szekció",
         "presentation" : "Szives_Marton_Gabor"
