@@ -9,7 +9,7 @@ Vizsgálatunk célja a tipikus fejlődésű és sajátos nevelési igényű (SNI
 
 A gyengénlátó/aliglátó gyermekek kivételével az SNI gyermekek egészségzónába kerülési aránya a tesztek többségében a tipikus fejlődésű gyermekeknél szignifikánsan alacsonyabbnak bizonyult. A fittségi index értéke az autizmus spektrum zavarral élő és a vak gyermekeknél volt a legalacsonyabb.
 
-Az életminőség egyes dimenzióiban alacsony életminőséget két vizsgálati csoport esetén találtunk. Az autizmus spektrum zavarral élő fiúk életminősége a szociális támasz, barátok, a lányok életminősége pedig a fizikális jóllét dimenziójában bizonyult átlag alattinak. A hallássérült fiúkat az autonómia és szülőkkel való kapcsolat és a szociális támasz, barátok, a lányokat a szociális támasz, barátok és az iskola dimenziójában jellemzi alacsony életminőség.
+Az életminőség egyes dimenzióiban alacsony életminőséget két vizsgálati csoport esetén találtunk. Az autizmus spektrum zavarral élő fiúk életminősége a szociális támasz, barátok, a lányok életminősége pedig a fizikális jóllét dimenziójában bizonyult átlag alattinak. A hallássérült fiúkat az autonómia, a szülőkkel való kapcsolat és a szociális támasz, barátok, a lányokat a szociális támasz, barátok és az iskola dimenziójában jellemzi alacsony életminőség.
 
 A fittségi állapot és az életminőség összefüggése SNI csoportonként különbözik egymástól. A fittségi állapotot globálisan mutató fittségi index a gyengénlátó gyermekek kivételével minden vizsgálati csoport esetén az életminőség fizikális jóllét dimenziójával mutatta a legszorosabb (pozitív) összefüggést. A maximális oxigénfelvevő képesség minden csoportnál pozitív összefüggést mutatott az életminőség fizikális jóllét dimenziójával.
 
