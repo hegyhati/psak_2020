@@ -1,5 +1,5 @@
 ---
-presenter: Varga Zoltán K
+presenter: Varga Zoltán Kristóf
 title: "Hogyan szorong a patkány? Klinikai endofenotipusok a preklinikumban"
 ---
 
