@@ -38,17 +38,13 @@ Minden szekció időkeretében van egy tartalék, mellyel a szekcióelnök gazd�
           {% endfor %}        
         {% endif %}
         {% if event.presentation %}
-          <div class="col-12 p-2">
+          <div class="col-12 p-2 psat-gold-blue">
             {% for presentation in site.presentations %}
             {% assign raw_id=presentation.id | remove: "/presentations/" %}
             {% if event.presentation == raw_id %}
-            <a href="{{site.baseurl}}{{presentation.url}}" class="text-dark" style="display: block;text-decoration: none;">
+            <a href="{{site.baseurl}}{{presentation.url}}" style="display: block;" class=" psat-gold-blue">
               <h5 class="mb-1">{{presentation.title}}</h5>
               <p class="mb-1">{{presentation.presenter}}</p>
-              <div class="d-md-inline d-sm-none d-none">
-                <hr class="mx-4">
-                {{presentation.content | slice: 0, 300 | append: "... " }}
-              </div>
             </a>
             {% endif %}
             {% endfor %}

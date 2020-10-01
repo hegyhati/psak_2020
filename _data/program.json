@@ -40,12 +40,12 @@
       {	
         "start" : "18:30", "finish" : "19:00",	
         "name"  : "Plenáris előadás: Prof. Dr. Rechnitzer János",	
-        "presentation" : "to_be_announced"	
+        "presentation" : "Rechnitzer_Janos"	
       }, 
       {	
         "start" : "19:00", "finish" : "19:30",	
         "name"  : "Plenáris előadás: Prof. Dr. Bokor József",	
-        "presentation" : "to_be_announced"	
+        "presentation" : "Bokor_Jozsef"	
       },  
     ]
   },
