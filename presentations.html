@@ -28,7 +28,7 @@ title: Előadások listája
       <p class="mb-1">{{presentation.presenter}}</p>
       <div class="d-md-inline d-sm-none d-none">
         <hr class="mx-4">
-        {{presentation.content | slice: 0, 300 | append: "... " }}
+        {{presentation.content | strip_html | slice: 0, 300 | append: "... " }}
       </div>
     </a>
   {% endfor %}
