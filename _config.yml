@@ -27,3 +27,5 @@ defaults:
       type: "presentations" 
     values:
       layout: "presentation" 
+
+letsmeeturl: "https://letsmeet.sze.hu/psak"
