@@ -17,15 +17,15 @@ a:hover
 
 .psat-blue-white
 {
-	background: #45587f;
-	color: white;
+	background: #45587f !important;
+	color: white !important;
 }
 
 .psat-gold-blue 
 {
-	background: #ccc1a1;
-	color: #55668C;
-	text-shadow: 0px 0px 8px #ffffff;
+	background: #ccc1a1 !important;
+	color: #55668C !important;
+	text-shadow: 0px 0px 8px #ffffff !important;
 }
 
 .border-3 {

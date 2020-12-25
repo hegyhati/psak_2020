@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+    <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  
+  
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      CommonHTML: { linebreaks: { automatic: true, width: "90% container"  } },
+      "HTML-CSS": { linebreaks: { automatic: true, width: "90% container"   } },
+             SVG: { linebreaks: { automatic: true, width: "90% container"   } }
+    });
+    </script>
+
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/style.css">
+
+    <style>
+      h1, .abstract {
+        break-before: always;
+      }
+      @media print {
+        @page {
+          size: A3;
+          font-size: 20px;
+
+          @bottom-center {
+                content: counter(page);
+          }
+        }
+      }
+    </style>
+
+
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+  
+  
+  
+  </head>
+  <body>
+
+      {{ content }}
+  </body>
+</html>

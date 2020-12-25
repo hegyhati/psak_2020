@@ -1,0 +1,112 @@
+---
+layout: print
+---
+
+<div style="margin-top: 30%; margin-bottom: 30%;">
+  <h1 class="display-3">XV. PSAK</h1>
+  <h3>2020. október 8-10.</h3>
+  <h2 class="display-4" style="margin-top:100px;">Program és előadás kivonatok</h2>
+</div>
+
+<h1 class="display-4 py-3"></h1>
+
+<h1 class="display-4 py-3">Konferencia program</h1>
+
+{% for day in site.data.program %}
+<h3>{{day.date-hu}}</h3>
+  <ul style="list-style-type: none;">
+  {% for event in day.events %}
+    <li>
+      {{event.start}}-{{event.finish}}: 
+      {% if event.sections or event.presentation%}
+        <a href="sections.html#{{event.name}}" style="text-decoration: none;"><b>{{event.name}}</b></a>
+      {% else %}
+        <b>{{event.name}}</b>
+      {% endif %}
+      {% comment %} ({{event.place}}) {% endcomment %}
+      {% if event.sections %}
+      : {% for section in event.sections %}
+          {% if forloop.first == false %} / {% endif %}
+          {{section.name}} ({{section.presentations.size}})
+        {% endfor %}
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+
+
+<h1 class="display-4 py-3">Szekció beosztások</h1>
+
+{% for day in site.data.program %}
+<h3>{{day.date-hu}}</h3>
+  <div width="100%">
+  {% for event in day.events %}
+    {% if event.sections or event.presentation %}
+      <table class="table table-bordered" style="margin-bottom: 50px; margin-top: 20px;" width="90%">
+        <thead  class="thead-dark">
+          <tr>
+          <th>
+            {{event.start}} - {{event.finish}} <span  style="margin-left: 20px;"> <b>{{event.name}}</b></span>
+          </th>
+          </tr>
+        </thead>
+        <tbody>
+          {% if event.sections %}
+            {% for section in event.sections %}
+              <tr><th class="psat-gold-blue">{{section.name}} - Szekcióelnök: {{section.chair}}</th></tr>
+                  {% for presentation_id in section.presentations %} 
+                  {% for presentation in site.presentations %}
+                  {% assign raw_id=presentation.id | remove: "/presentations/" %}
+                  {% if presentation_id == raw_id %}
+                  <tr>
+                    <td class="text-dark">
+                      {{presentation.title}} - <i>{{presentation.presenter}}</i>
+                    </td>
+                  </tr>
+                  {% endif %}
+                  {% endfor %}
+                  {% endfor %}
+                </div>
+              </div>
+            {% endfor %}        
+          {% endif %}
+          {% if event.presentation %}
+            <tr class="col-12 p-2">
+              {% for presentation in site.presentations %}
+              {% assign raw_id=presentation.id | remove: "/presentations/" %}
+              {% if event.presentation == raw_id %}
+              <td class=" psat-gold-blue">
+                <h5 class="mb-1">{{presentation.title}}</h5>
+                <p class="mb-1">{{presentation.presenter}}</p>
+              </td>
+              {% endif %}
+              {% endfor %}
+            </tr> 
+          {% endif %} 
+          </tbody>  
+        </table>
+    {% endif %}    
+  {% endfor %}
+  </div>
+{% endfor %}
+
+
+
+<h1 class="display-4 py-3">Előadás kivonatok</h1>
+<ul>
+{% for presentation in site.presentations %}
+  <li>{{presentation.title}} - <i>{{presentation.presenter}}</i></li>
+{% endfor %}
+</ul>
+
+{% for presentation in site.presentations %}
+<h2 class="display-4 abstract"  style="font-size: 40px;">{{presentation.title}}</h3>
+<h3 class="display-5 my-5">{{presentation.presenter}}</h4>
+<div style="text-align: justify;">
+{{presentation.content}}
+</div>
+
+
+
+{% endfor %}
