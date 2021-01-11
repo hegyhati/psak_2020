@@ -31,3 +31,68 @@ a:hover
 .border-3 {
   border-width:13px !important;
 }
+
+
+#toc li a::after{
+	content: target-counter(attr(href), page);
+  float: right;
+}
+
+
+/* set the style for the list numbering to none */
+#list-toc-generated{ list-style: none;}
+
+#list-toc-generated .toc-element a::after{
+    content: target-counter(attr(href), page);
+    float: right;
+}
+
+#list-toc-generated .toc-element-level-1{
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+#list-toc-generated .toc-element-level-2{
+    margin-top: 5px;
+    margin-left: 25px;
+    font-size: medium;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+/* hack for leaders */
+
+#list-toc-generated{
+    overflow-x: hidden;
+}
+
+/* fake leading */
+#list-toc-generated .toc-element::after{
+    content: 
+        ".............................................."
+        ".............................................."
+        ".............................................."  
+        "........";
+    float: left;
+    width: 0;
+    padding-left: 5px;
+    letter-spacing: 2px;
+}
+
+#list-toc-generated .toc-element{
+    display: flex; 
+}
+
+#list-toc-generated .toc-element a::after{
+    position: absolute;
+    right: 0;
+    background-color: white;
+    padding-left: 6px;
+}
+
+#list-toc-generated .toc-element a{
+  text-decoration: none;
+    right: 0;

@@ -2,6 +2,8 @@
 layout: print
 ---
 
+
+
 <div style="margin-top: 30%; margin-bottom: 30%;">
   <h1 class="display-3">XV. PSAK</h1>
   <h3>2020. október 8-10.</h3>
@@ -10,7 +12,11 @@ layout: print
 
 <h1 class="display-4 py-3"></h1>
 
-<h1 class="display-4 py-3">Konferencia program</h1>
+<h1 class="display-4 py-3">Tartalomjegyzék</h1>
+<ul id="my-toc-content"></ul>
+
+
+<h1 class="display-4 py-3 psak-toc">Konferencia program</h1>
 
 {% for day in site.data.program %}
 <h3>{{day.date-hu}}</h3>
@@ -36,7 +42,7 @@ layout: print
 {% endfor %}
 
 
-<h1 class="display-4 py-3">Szekció beosztások</h1>
+<h1 class="display-4 py-3 psak-toc ">Szekció beosztások</h1>
 
 {% for day in site.data.program %}
 <h3>{{day.date-hu}}</h3>
@@ -93,7 +99,7 @@ layout: print
 
 
 
-<h1 class="display-4 py-3">Előadás kivonatok</h1>
+<h1 class="display-4 py-3 psak-toc ">Előadás kivonatok</h1>
 <ul>
 {% for presentation in site.presentations %}
   <li>{{presentation.title}} - <i>{{presentation.presenter}}</i></li>
@@ -103,6 +109,7 @@ layout: print
 {% for presentation in site.presentations %}
 <h2 class="display-4 abstract"  style="font-size: 40px;">{{presentation.title}}</h3>
 <h3 class="display-5 my-5">{{presentation.presenter}}</h4>
+<span style="display: none;" class="psak-toc-2">{{presentation.presenter}}</span>
 <div style="text-align: justify;">
 {{presentation.content}}
 </div>
