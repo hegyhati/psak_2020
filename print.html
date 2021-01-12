@@ -107,10 +107,12 @@ layout: print
 </ul>
 
 {% for presentation in site.presentations %}
+ {% if presentation.norealabstract != true %}
 <h2 class="display-4 abstract"  style="font-size: 40px;">{{presentation.title}}</h3>
 <h3 class="display-5 my-5">{{presentation.presenter}}</h4>
 <span style="display: none;" class="psak-toc-2">{{presentation.presenter}}</span>
 <div style="text-align: justify;">
+  {% endif %}
 {{presentation.content}}
 </div>
 

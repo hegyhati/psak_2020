@@ -1,6 +1,7 @@
 ---
 presenter: Prof. Dr. Bokor József
 title: "Önvezető járművek: érzékelés, jelfeldolgozás, irányitás"
+norealabstract: true
 ---
 
 Prof. Dr. Bokor József villamosmérnök, egyetemi tanár. A SZTAKI, tudományos igazgatója, a Universiry of Minnesota kutatóprofesszora és a Széchenyi István Egyetem Járműipari kutatóközpont vezetője.

@@ -1,6 +1,7 @@
 ---
 presenter: Prof. Dr. Rechnitzer János
 title: "A magyar nagyvárosok fejlődési pályáinak sajátosságai"
+norealabstract: true
 ---
 
 Rechnitzer János közgazdász, egyetemi tanár, regionális kutató, a Magyar Regionális Tudományi Társaság tiszteletbeli elnöke
