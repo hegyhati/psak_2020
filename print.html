@@ -49,7 +49,7 @@ layout: print
   <div width="100%">
   {% for event in day.events %}
     {% if event.sections or event.presentation %}
-      <table class="table table-bordered" style="margin-bottom: 50px; margin-top: 20px;" width="90%">
+      <table class="table table-bordered" style="page-break-inside: avoid; margin-bottom: 50px; margin-top: 20px;" width="90%">
         <thead  class="thead-dark">
           <tr>
           <th>
@@ -100,11 +100,6 @@ layout: print
 
 
 <h1 class="display-4 py-3 psak-toc ">Előadás kivonatok</h1>
-<ul>
-{% for presentation in site.presentations %}
-  <li>{{presentation.title}} - <i>{{presentation.presenter}}</i></li>
-{% endfor %}
-</ul>
 
 {% for presentation in site.presentations %}
  {% if presentation.norealabstract != true %}
